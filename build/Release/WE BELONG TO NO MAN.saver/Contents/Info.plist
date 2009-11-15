@@ -5,13 +5,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>Web</string>
+	<string>WE BELONG TO NO MAN</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.Web</string>
+	<string>com.yourcompany.WE_BELONG_TO_NO_MAN</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Web</string>
+	<string>WE BELONG TO NO MAN</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
