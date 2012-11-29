@@ -41,7 +41,7 @@
 		4D856DCD10845D98006C781A /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = /System/Library/Frameworks/WebKit.framework; sourceTree = "<absolute>"; };
 		4D856DF21084601E006C781A /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		8D255AD20486D3F9007BF209 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		8D255AD30486D3F9007BF209 /* WE BELONG TO NO MAN.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WE BELONG TO NO MAN.saver"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D255AD30486D3F9007BF209 /* hunters.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hunters.saver; sourceTree = BUILT_PRODUCTS_DIR; };
 		F50079790118B23001CA0E54 /* WebSaverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebSaverView.h; sourceTree = "<group>"; };
 		F500797A0118B23001CA0E54 /* WebSaverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebSaverView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -137,7 +137,7 @@
 		19C28FB8FE9D52D311CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8D255AD30486D3F9007BF209 /* WE BELONG TO NO MAN.saver */,
+				8D255AD30486D3F9007BF209 /* hunters.saver */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -182,7 +182,7 @@
 			name = Web;
 			productInstallPath = "$(HOME)/Library/Screen Savers";
 			productName = WebSaver;
-			productReference = 8D255AD30486D3F9007BF209 /* WE BELONG TO NO MAN.saver */;
+			productReference = 8D255AD30486D3F9007BF209 /* hunters.saver */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -269,7 +269,7 @@
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				MACOSX_DEPLOYMENT_TARGET = "";
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_NAME = "WE BELONG TO NO MAN";
+				PRODUCT_NAME = hunters;
 				SDKROOT = macosx10.6;
 				WRAPPER_EXTENSION = saver;
 				ZERO_LINK = YES;
@@ -289,7 +289,7 @@
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				MACOSX_DEPLOYMENT_TARGET = "";
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_NAME = "WE BELONG TO NO MAN";
+				PRODUCT_NAME = hunters;
 				SDKROOT = macosx10.6;
 				WRAPPER_EXTENSION = saver;
 			};
